@@ -6,8 +6,8 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 
 ```
 ├── 01_Logic_Building/     ✅ Completed
-├── 02_Stack/             🔄 In Progress
-├── 03_Queue/             ⏳ Upcoming
+├── 02_Stack/             ✅ Completed
+├── 03_Queue/             🔄 In Progress
 ├── 04_Heap/              ⏳ Upcoming
 ├── 05_Linked_List/       ⏳ Upcoming
 ├── 06_Binary_Search/     ⏳ Upcoming
@@ -43,8 +43,22 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Matrix Rotation (90-degree clockwise)
 - Custom Sorting (Marathon Leaderboard)
 
-### 02 Stack ⏳
-*6 lessons planned*
+### 02 Stack ✅
+**6 Problems Solved** | **Advanced Stack Operations Mastered**
+
+- **Bracket validation** with stack-based matching for code editors
+- **Next greater/smaller elements** using monotonic stack patterns
+- **Stack traversal algorithms** for both left-to-right and right-to-left processing
+- **Stack sorting** with auxiliary stack and optimal space usage
+- **Advanced data structure design** with MinStack for O(1) minimum retrieval
+- **Document management systems** with LIFO constraints
+
+**Key Algorithms Implemented:**
+- Monotonic Stack (Next Greater/Smaller Elements)
+- Stack-based Bracket Matching (Valid Parentheses)
+- Auxiliary Stack Sorting (Sort a Stack)
+- Dual Stack Design (MinStack with O(1) operations)
+- Stack Traversal Patterns (Left-to-right, Right-to-left)
 
 ### 03 Queue ⏳
 *6 lessons planned*
