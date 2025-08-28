@@ -9,8 +9,8 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 ├── 02_Stack/             ✅ Completed
 ├── 03_Queue/             ✅ Completed
 ├── 04_Heap/              ✅ Completed
-├── 05_Linked_List/       🔄 In Progress
-├── 06_Binary_Search/     ⏳ Upcoming
+├── 05_Linked_List/       ✅ Completed
+├── 06_Binary_Search/     🔄 In Progress
 ├── 07_String/            ⏳ Upcoming
 ├── 08_Binary_Search_Tree/⏳ Upcoming
 ├── 09_Graph/             ⏳ Upcoming
@@ -101,9 +101,24 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Matrix Heap Traversal (Kth Smallest in Sorted Matrix)
 - Efficient Top-K Algorithms (O(n log k) complexity)
 
-### 05 Linked List ⏳
+### 05 Linked List ✅
 
-_5 lessons planned_
+**5 Problems Solved** | **Advanced Linked List Operations & Algorithms**
+
+- **Palindrome detection** using two-pointer technique with in-place reversal
+- **Linked list reversal** with efficient in-place pointer manipulation
+- **Kth element from end** using two-pointer technique for single-pass traversal
+- **Merge sorted lists** with optimal node reuse and maintaining sorted order
+- **Cycle detection** using Floyd's Algorithm (Tortoise and Hare method)
+- **Advanced pointer manipulation** for complex linked list operations
+
+**Key Algorithms Implemented:**
+
+- Two-Pointer Technique (Palindrome Check, Kth from End)
+- In-Place List Reversal (Reverse Linked List)
+- Floyd's Cycle Detection (Cycle Detection)
+- Merge Algorithm (Merge Two Sorted Lists)
+- Slow/Fast Pointer Patterns (Multiple applications)
 
 ### 06 Binary Search ⏳
 
@@ -163,4 +178,4 @@ This repository is designed for:
 
 ---
 
-**Status:** Actively maintained | **Last Updated:** _4 sections completed with 29 problems solved_
+**Status:** Actively maintained | **Last Updated:** _5 sections completed with 34 problems solved_
