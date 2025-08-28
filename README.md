@@ -7,7 +7,8 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 ```
 ├── 01_Logic_Building/     ✅ Completed
 ├── 02_Stack/             ✅ Completed
-├── 03_Queue/             🔄 In Progress
+├── 03_Queue/             ✅ Completed
+├── 04_Heap/              🔄 In Progress
 ├── 04_Heap/              ⏳ Upcoming
 ├── 05_Linked_List/       ⏳ Upcoming
 ├── 06_Binary_Search/     ⏳ Upcoming
@@ -20,6 +21,7 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 ## 🎯 Progress Overview
 
 ### 01 Logic Building ✅
+
 **13 Problems Solved** | **Core Concepts Mastered**
 
 - **Password validation** with multiple criteria checking
@@ -36,6 +38,7 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - **Graph theory basics** for influence score calculation
 
 **Key Algorithms Implemented:**
+
 - Sliding Window (Traffic Analysis, Stock Prices, Heist Planning)
 - Prefix Sum Arrays (Marble Challenge)
 - Hash Map Frequency Counting (Notifications, Unique Elements)
@@ -44,6 +47,7 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Custom Sorting (Marathon Leaderboard)
 
 ### 02 Stack ✅
+
 **6 Problems Solved** | **Advanced Stack Operations Mastered**
 
 - **Bracket validation** with stack-based matching for code editors
@@ -54,39 +58,64 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - **Document management systems** with LIFO constraints
 
 **Key Algorithms Implemented:**
+
 - Monotonic Stack (Next Greater/Smaller Elements)
 - Stack-based Bracket Matching (Valid Parentheses)
 - Auxiliary Stack Sorting (Sort a Stack)
 - Dual Stack Design (MinStack with O(1) operations)
 - Stack Traversal Patterns (Left-to-right, Right-to-left)
 
-### 03 Queue ⏳
-*6 lessons planned*
+### 03 Queue ✅
+
+**6 Problems Solved** | **Advanced Queue Operations & Data Structure Design**
+
+- **Stack implementation using queues** with efficient LIFO simulation
+- **Binary number generation** using BFS-like queue traversal patterns
+- **Queue reversal** using auxiliary stack for FIFO to LIFO conversion
+- **Queue interleaving** for alternating element arrangement from halves
+- **MinQueue design** with O(1) minimum retrieval using auxiliary deque
+- **Queue rotation** for circular buffer and round-robin scheduling
+
+**Key Algorithms Implemented:**
+
+- Two-Queue Stack Design (Stack Using Queues)
+- BFS-Based Generation (Binary Numbers 1 to N)
+- Queue Manipulation (Reverse, Interleave, Rotate)
+- Advanced Queue Design (MinQueue with O(1) operations)
+- Circular Buffer Operations (K-times Rotation)
 
 ### 04 Heap ⏳
-*4 lessons planned*
+
+_4 lessons planned_
 
 ### 05 Linked List ⏳
-*5 lessons planned*
+
+_5 lessons planned_
 
 ### 06 Binary Search ⏳
-*5 lessons planned*
+
+_5 lessons planned_
 
 ### 07 String ⏳
-*5 lessons planned*
+
+_5 lessons planned_
 
 ### 08 Binary Search Tree ⏳
-*8 lessons planned*
+
+_8 lessons planned_
 
 ### 09 Graph ⏳
-*8 lessons planned*
+
+_8 lessons planned_
 
 ### 10 Dynamic Programming ⏳
-*8 lessons planned*
+
+_8 lessons planned_
 
 ## 🚀 Quick Start
 
 Each topic contains:
+
 - **Problem documentation** (`.md` files) - Detailed problem statements with examples
 - **Solution implementations** (`.py` files) - Clean, runnable Python code
 - **VS Code ready** - All files optimized for local development
@@ -105,6 +134,7 @@ python 01_Password_Strength_Checker.py
 ## 📖 Study Approach
 
 This repository is designed for:
+
 - **Quick revision** before interviews
 - **Topic-wise practice** for skill building
 - **Progressive learning** from basic to advanced concepts
@@ -120,4 +150,4 @@ This repository is designed for:
 
 ---
 
-**Status:** Actively maintained | **Last Updated:** *Current progress through Logic Building*
+**Status:** Actively maintained | **Last Updated:** _Current progress through Logic Building_
