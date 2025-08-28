@@ -8,9 +8,8 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 ├── 01_Logic_Building/     ✅ Completed
 ├── 02_Stack/             ✅ Completed
 ├── 03_Queue/             ✅ Completed
-├── 04_Heap/              🔄 In Progress
-├── 04_Heap/              ⏳ Upcoming
-├── 05_Linked_List/       ⏳ Upcoming
+├── 04_Heap/              ✅ Completed
+├── 05_Linked_List/       🔄 In Progress
 ├── 06_Binary_Search/     ⏳ Upcoming
 ├── 07_String/            ⏳ Upcoming
 ├── 08_Binary_Search_Tree/⏳ Upcoming
@@ -84,9 +83,23 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Advanced Queue Design (MinQueue with O(1) operations)
 - Circular Buffer Operations (K-times Rotation)
 
-### 04 Heap ⏳
+### 04 Heap ✅
 
-_4 lessons planned_
+**4 Problems Solved** | **Advanced Heap Operations & Priority Queue Algorithms**
+
+- **Kth largest element** using min-heap for competition leaderboards
+- **Top-k frequent elements** with frequency analysis and heap-based selection
+- **K closest points to origin** for spatial analysis and location-based services
+- **Kth smallest in sorted matrix** using heap traversal in 2D data structures
+- **Priority queue algorithms** for efficient top-k and ranking problems
+
+**Key Algorithms Implemented:**
+
+- Min-Heap Selection (Kth Largest Element)
+- Frequency-based Heap Operations (Top K Frequent)
+- Distance-based Priority Queue (K Closest Points)
+- Matrix Heap Traversal (Kth Smallest in Sorted Matrix)
+- Efficient Top-K Algorithms (O(n log k) complexity)
 
 ### 05 Linked List ⏳
 
@@ -150,4 +163,4 @@ This repository is designed for:
 
 ---
 
-**Status:** Actively maintained | **Last Updated:** _Current progress through Logic Building_
+**Status:** Actively maintained | **Last Updated:** _4 sections completed with 29 problems solved_
