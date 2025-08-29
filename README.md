@@ -10,8 +10,8 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 ├── 03_Queue/             ✅ Completed
 ├── 04_Heap/              ✅ Completed
 ├── 05_Linked_List/       ✅ Completed
-├── 06_Binary_Search/     🔄 In Progress
-├── 07_String/            ⏳ Upcoming
+├── 06_Binary_Search/     ✅ Completed
+├── 07_String/            🔄 In Progress
 ├── 08_Binary_Search_Tree/⏳ Upcoming
 ├── 09_Graph/             ⏳ Upcoming
 └── 10_Dynamic_Programming/⏳ Upcoming
@@ -20,7 +20,6 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 ## 🎯 Progress Overview
 
 ### 01 Logic Building ✅
-
 **13 Problems Solved** | **Core Concepts Mastered**
 
 - **Password validation** with multiple criteria checking
@@ -37,7 +36,6 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - **Graph theory basics** for influence score calculation
 
 **Key Algorithms Implemented:**
-
 - Sliding Window (Traffic Analysis, Stock Prices, Heist Planning)
 - Prefix Sum Arrays (Marble Challenge)
 - Hash Map Frequency Counting (Notifications, Unique Elements)
@@ -46,7 +44,6 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Custom Sorting (Marathon Leaderboard)
 
 ### 02 Stack ✅
-
 **6 Problems Solved** | **Advanced Stack Operations Mastered**
 
 - **Bracket validation** with stack-based matching for code editors
@@ -57,7 +54,6 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - **Document management systems** with LIFO constraints
 
 **Key Algorithms Implemented:**
-
 - Monotonic Stack (Next Greater/Smaller Elements)
 - Stack-based Bracket Matching (Valid Parentheses)
 - Auxiliary Stack Sorting (Sort a Stack)
@@ -65,18 +61,16 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Stack Traversal Patterns (Left-to-right, Right-to-left)
 
 ### 03 Queue ✅
-
 **6 Problems Solved** | **Advanced Queue Operations & Data Structure Design**
 
 - **Stack implementation using queues** with efficient LIFO simulation
-- **Binary number generation** using BFS-like queue traversal patterns
+- **Binary number generation** using BFS-like queue traversal patterns  
 - **Queue reversal** using auxiliary stack for FIFO to LIFO conversion
 - **Queue interleaving** for alternating element arrangement from halves
 - **MinQueue design** with O(1) minimum retrieval using auxiliary deque
 - **Queue rotation** for circular buffer and round-robin scheduling
 
 **Key Algorithms Implemented:**
-
 - Two-Queue Stack Design (Stack Using Queues)
 - BFS-Based Generation (Binary Numbers 1 to N)
 - Queue Manipulation (Reverse, Interleave, Rotate)
@@ -84,7 +78,6 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Circular Buffer Operations (K-times Rotation)
 
 ### 04 Heap ✅
-
 **4 Problems Solved** | **Advanced Heap Operations & Priority Queue Algorithms**
 
 - **Kth largest element** using min-heap for competition leaderboards
@@ -94,7 +87,6 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - **Priority queue algorithms** for efficient top-k and ranking problems
 
 **Key Algorithms Implemented:**
-
 - Min-Heap Selection (Kth Largest Element)
 - Frequency-based Heap Operations (Top K Frequent)
 - Distance-based Priority Queue (K Closest Points)
@@ -102,7 +94,6 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Efficient Top-K Algorithms (O(n log k) complexity)
 
 ### 05 Linked List ✅
-
 **5 Problems Solved** | **Advanced Linked List Operations & Algorithms**
 
 - **Palindrome detection** using two-pointer technique with in-place reversal
@@ -113,37 +104,43 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - **Advanced pointer manipulation** for complex linked list operations
 
 **Key Algorithms Implemented:**
-
 - Two-Pointer Technique (Palindrome Check, Kth from End)
 - In-Place List Reversal (Reverse Linked List)
 - Floyd's Cycle Detection (Cycle Detection)
 - Merge Algorithm (Merge Two Sorted Lists)
 - Slow/Fast Pointer Patterns (Multiple applications)
 
-### 06 Binary Search ⏳
+### 06 Binary Search ✅
+**5 Problems Solved** | **Advanced Binary Search Algorithms & Optimization**
 
-_5 lessons planned_
+- **Kth missing positive number** using efficient gap detection in sequential data
+- **Minimum time task completion** with resource allocation optimization using binary search on answer
+- **Peak traffic detection** using O(log n) binary search in mountain-shaped data
+- **Array splitting optimization** to minimize maximum subarray sum across multiple partitions
+- **Transportation speed optimization** with time constraints and mixed integer/decimal calculations
+
+**Key Algorithms Implemented:**
+- Binary Search on Answer (Task Completion, Array Splitting)
+- Gap Detection in Sequences (Kth Missing Number)
+- Peak Element Detection (Traffic Analysis)
+- Resource Optimization (Speed Calculation with Constraints)
+- Search Space Reduction Techniques (Multiple applications)
 
 ### 07 String ⏳
-
-_5 lessons planned_
+*5 lessons planned*
 
 ### 08 Binary Search Tree ⏳
-
-_8 lessons planned_
+*8 lessons planned*
 
 ### 09 Graph ⏳
-
-_8 lessons planned_
+*8 lessons planned*
 
 ### 10 Dynamic Programming ⏳
-
-_8 lessons planned_
+*8 lessons planned*
 
 ## 🚀 Quick Start
 
 Each topic contains:
-
 - **Problem documentation** (`.md` files) - Detailed problem statements with examples
 - **Solution implementations** (`.py` files) - Clean, runnable Python code
 - **VS Code ready** - All files optimized for local development
@@ -162,7 +159,6 @@ python 01_Password_Strength_Checker.py
 ## 📖 Study Approach
 
 This repository is designed for:
-
 - **Quick revision** before interviews
 - **Topic-wise practice** for skill building
 - **Progressive learning** from basic to advanced concepts
@@ -178,4 +174,4 @@ This repository is designed for:
 
 ---
 
-**Status:** Actively maintained | **Last Updated:** _5 sections completed with 34 problems solved_
+**Status:** Actively maintained | **Last Updated:** *6 sections completed with 39 problems solved*
