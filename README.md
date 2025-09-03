@@ -5,16 +5,16 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 ## 📚 Repository Structure
 
 ```
-├── 01_Logic_Building/     ✅ Completed
-├── 02_Stack/             ✅ Completed
-├── 03_Queue/             ✅ Completed
-├── 04_Heap/              ✅ Completed
-├── 05_Linked_List/       ✅ Completed
-├── 06_Binary_Search/     ✅ Completed
-├── 07_String/            ✅ Completed
-├── 08_Binary_Search_Tree/🔄 In Progress
-├── 09_Graph/             ⏳ Upcoming
-└── 10_Dynamic_Programming/⏳ Upcoming
+├── 01_Logic_Building/       ✅ Completed
+├── 02_Stack/               ✅ Completed
+├── 03_Queue/               ✅ Completed
+├── 04_Heap/                ✅ Completed
+├── 05_Linked_List/         ✅ Completed
+├── 06_Binary_Search/       ✅ Completed
+├── 07_String/              ✅ Completed
+├── 08_Binary_Search_Tree/  ✅ Completed
+├── 09_Graph/               🔄 In Progress
+└── 10_Dynamic_Programming/ ⏳ Upcoming
 ```
 
 ## 🎯 Progress Overview
@@ -156,11 +156,31 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Pattern Matching Optimization (Multiple applications)
 - Character Removal Strategies (Alternating Characters)
 
-### 08 Binary Search Tree ⏳
+### 08 Binary Search Tree ✅
 
-_8 lessons planned_
+**8 Problems Solved** | **Advanced BST Operations & Tree Algorithms**
 
-### 09 Graph ⏳
+- **BST Validation & Construction** with range-based algorithms for maintaining tree integrity in database systems
+- **Search & Range Operations** implementing efficient O(log n) lookups and range queries used in financial and inventory systems
+- **Tree Transformations** including Greater Sum Tree conversions for cumulative data analysis in analytics platforms
+- **Missing Element Analysis** with mathematical optimization for statistical gap detection in large datasets
+- **Preorder Construction** enabling efficient BST rebuilding from serialized data in distributed systems
+- **Median & Statistical Operations** on missing data points for robust statistical analysis in incomplete datasets
+- **Range-based Queries** with BST property exploitation for optimal performance in search applications
+- **Maximum Sum BST Detection** using post-order traversal for finding optimal subtrees in complex tree structures
+
+**Key Algorithms Implemented:**
+
+- Range-based BST Validation (BST Checker, Preorder Construction)
+- Efficient BST Search with Multiple Return Conditions (Jail Search)
+- Reverse Inorder Traversal for Greater Sum Tree (Don't Let Them Lose)
+- Missing Element Detection with K-th Selection (Missing Numbers, Missing Median)
+- Mathematical Range Sum Optimization (Silent Sum of Missing Numbers)
+- Post-order BST Subtree Analysis (Binary Bounty: The Sum Quest)
+- Preorder to BST Construction with Bounds Checking (Wedding Gift)
+- Statistical Analysis on Tree Data (Multiple applications)
+
+### 09 Graph 🔄
 
 _8 lessons planned_
 
@@ -206,4 +226,4 @@ This repository is designed for:
 
 ---
 
-**Status:** Actively maintained | **Last Updated:** _7 sections completed with 44 problems solved_
+**Status:** Actively maintained | **Last Updated:** _8 sections completed with 52 problems solved_
