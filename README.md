@@ -2,19 +2,20 @@
 
 A comprehensive collection of Data Structures and Algorithms practice problems organized by topic for quick revision and skill building.
 
-## 📚 Repository Structure
+## 🗂️ Repository Structure
 
 ```
-├── 01_Logic_Building/       ✅ Completed
-├── 02_Stack/               ✅ Completed
-├── 03_Queue/               ✅ Completed
-├── 04_Heap/                ✅ Completed
-├── 05_Linked_List/         ✅ Completed
-├── 06_Binary_Search/       ✅ Completed
-├── 07_String/              ✅ Completed
-├── 08_Binary_Search_Tree/  ✅ Completed
-├── 09_Graph/               🔄 In Progress
-└── 10_Dynamic_Programming/ ⏳ Upcoming
+01_Logic_Building            ████████████ COMPLETE
+02_Stack                     ████████████ COMPLETE
+03_Queue                     ████████████ COMPLETE
+04_Heap                      ████████████ COMPLETE
+05_Linked_List               ████████████ COMPLETE
+06_Binary_Search             ████████████ COMPLETE
+07_String                    ████████████ COMPLETE
+08_Binary_Search_Tree        ████████████ COMPLETE
+09_Recursion_&_Backtracking  ████████████ COMPLETE
+10_Graph                     ████████▓▓▓▓ WORKING...
+11_Dynamic_Programming       ░░░░░░░░░░░░ LOCKED
 ```
 
 ## 🎯 Progress Overview
@@ -180,11 +181,39 @@ A comprehensive collection of Data Structures and Algorithms practice problems o
 - Preorder to BST Construction with Bounds Checking (Wedding Gift)
 - Statistical Analysis on Tree Data (Multiple applications)
 
-### 09 Graph 🔄
+### 09 Recursion & Backtracking ✅
+
+**10 Problems Solved** | **Advanced Recursive Algorithms & Backtracking Techniques**
+
+- **Subsequence Generation** with both inclusive and exclusive approaches for string analysis and pattern extraction
+- **Subset Generation** using recursive choice-making for combinatorial problem solving in optimization systems
+- **Parentheses Generation** with constraint-based backtracking for syntax validation and compiler design
+- **Keypad Combinations** implementing T9 predictive text algorithms for mobile input systems
+- **Permutation Generation** with swap-based backtracking for arrangement optimization in scheduling systems
+- **Combination Sum** using index-based recursion for financial portfolio optimization and resource allocation
+- **Maze Pathfinding** with four-directional exploration for robotics navigation and game AI development
+- **N-Queens Constraint Satisfaction** demonstrating advanced backtracking for AI and game theory applications
+- **Sudoku Solving** with linear cell traversal for puzzle games and constraint satisfaction problems
+- **String and Array Backtracking** covering fundamental recursive patterns for competitive programming
+
+**Key Algorithms Implemented:**
+
+- Recursive Subsequence Generation (Include/Exclude Patterns)
+- Choice-based Backtracking (Subsets, Permutations)
+- Constraint Satisfaction (N-Queens, Sudoku Solver)
+- Path Exploration with Backtracking (Rat in Maze)
+- Optimized Parentheses Generation (Valid Combinations Only)
+- Index-based Recursion (Combination Sum, Keypad Combinations)
+- Swap-based Permutation Generation (In-place Algorithm)
+- Multi-constraint Validation (Sudoku Row/Column/Box Checks)
+- Linear Cell Traversal (Sequential Sudoku Solving)
+- Four-directional Grid Navigation (Maze Pathfinding)
+
+### 10 Graph 🔄
 
 _8 lessons planned_
 
-### 10 Dynamic Programming ⏳
+### 11 Dynamic Programming ⏳
 
 _8 lessons planned_
 
@@ -226,4 +255,4 @@ This repository is designed for:
 
 ---
 
-**Status:** Actively maintained | **Last Updated:** _8 sections completed with 52 problems solved_
+**Status:** Actively maintained | **Last Updated:** _9 sections completed with 62 problems solved_
